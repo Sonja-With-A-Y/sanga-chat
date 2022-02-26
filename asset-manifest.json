@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sanga-chat/static/css/main.ec6dcf85.css",
+    "main.js": "/sanga-chat/static/js/main.6a9104c5.js",
+    "static/js/787.fd333685.chunk.js": "/sanga-chat/static/js/787.fd333685.chunk.js",
+    "index.html": "/sanga-chat/index.html",
+    "main.ec6dcf85.css.map": "/sanga-chat/static/css/main.ec6dcf85.css.map",
+    "main.6a9104c5.js.map": "/sanga-chat/static/js/main.6a9104c5.js.map",
+    "787.fd333685.chunk.js.map": "/sanga-chat/static/js/787.fd333685.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec6dcf85.css",
+    "static/js/main.6a9104c5.js"
+  ]
+}
